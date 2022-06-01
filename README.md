@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on HTML, CSS, Js, BootStrap, ReactJs
 - 📫 How to reach me: youcancallkrish@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Graducated as Mechanical Engineer 😜
+- ⚡ Fun fact: graduated as Mechanical Engineer 😜
