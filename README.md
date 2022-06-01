@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning JavaScript
+- 👯 I’m looking to collaborate on HTML, CSS, Js, BootStrap, ReactJs
+- 📫 How to reach me: youcancallkrish@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Graducated as Mechanical Engineer 😜
