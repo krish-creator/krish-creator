@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning ReactJs
 - 👯 I’m looking to collaborate on HTML, CSS, Js, BootStrap, ReactJs
 - 📫 How to reach me: youcancallkrish@gmail.com
 - 😄 Pronouns: he/him
